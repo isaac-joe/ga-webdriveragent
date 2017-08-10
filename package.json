@@ -1,0 +1,19 @@
+{
+    "name": "ga-webdriveragent",
+    "version": "0.2.0",
+    "description": "a FB WebDriverAgent Xcode Package",
+    "main": "",
+    "optionalDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/isaac-joe/ga-webdriveragent.git"
+    },
+    "license": "MIT",
+    "keywords": [
+        "webdriveragent",
+        "xcuitest",
+        "xctest",
+        "webdriver",
+        "facebook"
+    ]
+}
